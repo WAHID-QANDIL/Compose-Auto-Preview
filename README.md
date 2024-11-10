@@ -13,8 +13,8 @@
 <a href="https://github.com/WAHID-QANDIL/"><img alt="Profile" src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height="20"/></a>
 </div>
 
-# *This library for compose, No more preview functions anymore.*
-*Just write your composables, and library comes into play
+# *This library for compose, No more preview functions anymore.
+Just write your composables, and library comes into play*
 
 
 # How to
