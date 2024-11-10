@@ -1,5 +1,7 @@
 
 # How to
+[![](https://jitpack.io/v/WAHID-QANDIL/Compose-Auto-Preview.svg)](https://jitpack.io/#WAHID-QANDIL/Compose-Auto-Preview)
+
 
 To get a Git project into your build:
 
